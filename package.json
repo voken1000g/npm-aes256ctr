@@ -1,0 +1,32 @@
+{
+  "name": "@voken/aes256ctr",
+  "version": "1.0.0",
+  "description": "@voken/aes256ctr",
+  "keywords": [
+    "aes",
+    "aes256",
+    "aes256ctr",
+    "aes-256-ctr",
+    "voken",
+    "voken1000g",
+    "crypto",
+    "cryptography",
+    "encrypt",
+    "decrypt"
+  ],
+  "homepage": "https://github.com/voken1000g/npm-aes256ctr",
+  "author": "@voken1000g",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/voken1000g/npm-aes256ctr"
+  },
+  "bugs": {
+    "url": "https://github.com/voken1000g/npm-aes256ctr/issues"
+  },
+  "main": "src/index.js",
+  "dependencies": {
+    "@voken/sha": "^1.0.0"
+  },
+  "test": "echo \"Error: no test specified\" && exit 1"
+}
