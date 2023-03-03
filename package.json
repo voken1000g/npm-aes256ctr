@@ -27,7 +27,7 @@
   "main": "src/index.js",
   "types": "src/index.d.ts",
   "dependencies": {
-    "@types/node": "^14.14.16",
+    "@types/node": "^18.14.5",
     "@voken/sha": "^1.1.9"
   },
   "test": "echo \"Error: no test specified\" && exit 1"
